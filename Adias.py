@@ -11,7 +11,7 @@ numMen = 0
 numMen_new = 0
 SearchCount = 0
 
-w, h = 5,2000;
+w, h = 5,2000
 DataMen = [['null' for x in range(w)] for y in range(h)]
 DataMen_new = [['null' for x in range(w)] for y in range(h)]
 DataMen_new_new = [['null' for x in range(w)] for y in range(h/4)]
